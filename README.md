@@ -1,2 +1,2 @@
 # GIT-LEARN
-Git tutotrial
+Git tutotrial learning from telugu youtube channel skillhub
